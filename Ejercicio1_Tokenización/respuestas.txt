@@ -1,0 +1,34 @@
+Marca temporal	Pregunta	Indícanos tu edad	Ciclo de enseñanza	¿Cuál consideras que es tu nivel con respecto al uso de las nuevas tecnologías (Google Classroom, Youtube, Campus Virtuales...)?	Dirección de correo electrónico
+3/17/2020 16:31:39	Prueba 				
+3/17/2020 16:32:15	Tengo una duda sobre si YouTube no me va a 720p lo puedo ver de otra forma				
+3/17/2020 16:32:15	Como corto los videos para quitar los trozos innecesarios?				
+3/17/2020 16:32:25	No me va Youtube				
+3/17/2020 16:32:39	¿Qué herramienta puedo usar para que mis alumnos se conecten a ver mis clases virtuales?				
+3/17/2020 16:33:39	Como grabo una clase?				
+3/17/2020 16:34:15	No me funciona OBS cuando lo instalo				
+3/17/2020 16:34:23	prueba				
+3/17/2020 16:34:29	Como puedo hacer para poder grabar una pantalla digital como si fuera mi pizarra, como hago? no entiendo mucho las maquinitas estas :S				
+3/17/2020 16:34:35	que es docencia?				
+3/17/2020 16:34:41	¿Cómo puedo grabar mi pantalla para dar mi clase online?				
+3/17/2020 16:34:54	como respondo a mis alumnos?				
+3/17/2020 16:35:06	¿Cual es la mejor herramienta para hacer las clases online?				
+3/17/2020 16:35:17	No sé editar un vídeo				
+3/17/2020 16:35:29	¿Cómo puedo hacer un directo en Twitch?				
+3/17/2020 16:35:35	¿Como se puede comprobar que alumnos han visto un video subido a youtube y quienes no? ¿ Se puede restringir un video para que haya que acceder con la cuenta de la universidad?				
+3/17/2020 16:35:36	Me dice que no tengo permisos al instalar el programa de grabación, ¿qué hago?				
+3/17/2020 16:35:41	Quiero cambiar la primera consulta que envié				
+3/17/2020 16:35:42	en que plataforma grabo?				
+3/17/2020 16:35:42	¿Cómo puedo controlar lo que hacen los alumnos durante la clase?				
+3/17/2020 16:35:53	como puedo coregir los deberes que mando para clase?				
+3/17/2020 16:35:56	cual es la mejor plataforma?				
+3/17/2020 16:36:11	Cada vez que intento exportar el vídeo, falla y no se guarda. ¿Cómo doy más información?				
+3/17/2020 16:36:13	¿Cómo vais a enviar la solución a mi problema?				
+3/17/2020 16:36:25	¿Qué herramienta es más recomendable para realizar una clase con ejemplos prácticos?				
+3/17/2020 16:36:35	Cual sería la mejor plataforma para desarrollar una clase online con mis alumnos?				
+3/17/2020 16:38:01	cuanto internet necesito?				
+3/17/2020 16:38:12	No tengo fibra, puedo igualmente?				
+3/17/2020 16:38:15	cual es la velocidad de internet recomendada para dar una clase por streaming?				
+3/17/2020 16:38:26	¿Que alternativas tengo si mi conexion a internet no me permite subir videos en alta calidad todos los dias? 				
+3/17/2020 16:39:01	Con la docencia online, ¿cómo se controlaría exactamente que los alumnos mantienen la atención en la clase on-line?				
+3/18/2020 12:24:32	No sé como funciona Google Classroom	20-30	Primaria	Intermedio	frmelchor01@gmail.com
+3/18/2020 12:25:10	¿Puedo subir un vídeo a YouTube al que solo tengan acceso mis alumnos?	20-30	Universidad	Intermedio	llopezta@alumnos.unex.es
